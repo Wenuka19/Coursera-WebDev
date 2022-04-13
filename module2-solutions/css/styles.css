@@ -24,7 +24,7 @@ h1 {
 .container {
     position: relative;
     background-color: rgb(153, 153, 153);
-    border: 2px solid black;
+    border: 1px solid black;
     padding: 44.6px 10px 10px 10px;
     height: 250px;
     overflow: hidden;
@@ -37,9 +37,9 @@ h1 {
     padding: 5px;
     width: 40%;
     margin: 0px;
-    top: -2px;
-    right: -2px;
-    border: 2px rgb(0, 0, 0) solid;
+    top: -1px;
+    right: -1px;
+    border: 1px rgb(0, 0, 0) solid;
     text-align: center;
 }
 
