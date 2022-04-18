@@ -1,0 +1,25 @@
+body {
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+#menu-list {
+    text-align: center;
+}
+
+.row>* {
+    padding: 0px;
+}
+
+.column {
+    /* background-color: lightblue;
+    border: 2px solid black; */
+    padding: 10px;
+    height: 600px;
+}
+
+.foodcard {
+    background-color: blueviolet;
+    padding: 20px;
+    padding-bottom: 15px;
+}
